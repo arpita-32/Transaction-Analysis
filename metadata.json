@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Remix Remix Remix Remix Remix Remix Remix Remix Remix Remix Remix: Remix: NSDL Payments Bank Portal",
+  "description": "An administrative and aggregator portal for user management, reports, audit trails, and dispute management for NSDL Payments Bank.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
